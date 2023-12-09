@@ -55,7 +55,7 @@ import {
     };
   
     const showToast = () => {
-        ToastAndroid.show('Data added successfully!', ToastAndroid.SHORT);
+        ToastAndroid.show('Data addedd successfully!', ToastAndroid.SHORT);
       }
   
     const handleButtonPress = async () => {
